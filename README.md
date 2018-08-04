@@ -1,5 +1,4 @@
 # Getting-and-Cleaning-Data Course Project
-==========================================
 
 This repository hosts the R code and documentation files for the "Getting and Cleaning data" course project.
 
